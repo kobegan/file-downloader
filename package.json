@@ -1,0 +1,17 @@
+{
+  "name": "file_downloader",
+  "version": "1.0.0",
+  "description": "download file with http request ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "ganchao",
+  "license": "MIT",
+  "dependencies": {
+    "bluebird": "^3.5.1",
+    "request": "^2.83.0",
+    "unzip": "^0.1.11"
+  }
+}
